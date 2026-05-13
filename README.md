@@ -14,29 +14,49 @@ l
 Tech Stack
 
 Python 🐍
+
 Pandas & NumPy – Data processing
+
 Matplotlib & Seaborn – Visualization
+
 Scikit-learn – Machine Learning
+
 Streamlit – Web App UI
+
 Joblib – Model serializationTech Stack
+
 Python 🐍
+
 Pandas & NumPy – Data processing
+
 Matplotlib & Seaborn – Visualization
+
 Scikit-learn – Machine Learning
+
 Streamlit – Web App UI
+
 Joblib – Model serialization
+
 ML algo and library
+
 data preprocessing 
+
 datatransformation
+
 pipeline
+
 Docker / containers
 
 Key Features
 
 End-to-end ML pipeline
+
 Feature engineering (balance differences)
+
 Handles class imbalance
+
 Interactive UI using Streamlit
+
 Real-time fraud prediction
 
 
@@ -45,14 +65,22 @@ Real-time fraud prediction
 ⚠️ Limitations
 
 Logistic Regression is a baseline model (not deep learning)
+
 Slightly low precision for fraud class due to imbalance
+
 Can be improved with:
+
 XGBoost / Random Forest
+
 SMOTE / oversampling
+
 Feature selection tuning
 
 
 
+
 Gaurav Poudel
+
 📍 Kathmandu, Nepal
+
 💡 Machine Learning & AI Enthusiast
