@@ -7,6 +7,7 @@ https://mlproject-ibaskzpfzt8ku7o9wyzs8g.streamlit.app/
 
 
 docker implementation -
+
     Docker Pull Command -
         docker pull gauravpoudel7/frauddetection
 
