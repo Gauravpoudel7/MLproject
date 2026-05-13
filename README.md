@@ -12,6 +12,7 @@ docker implementation -
 l 
 
 Tech Stack
+
 Python 🐍
 Pandas & NumPy – Data processing
 Matplotlib & Seaborn – Visualization
@@ -31,6 +32,7 @@ pipeline
 Docker / containers
 
 Key Features
+
 End-to-end ML pipeline
 Feature engineering (balance differences)
 Handles class imbalance
@@ -39,15 +41,22 @@ Real-time fraud prediction
 
 
 📈 Model Performance
+
 Metric	Class 0 (Legit)	Class 1 (Fraud)
+
 Precision	1.00	0.02
+
 Recall	0.95	0.94
+
 F1-score	0.97	0.04
+
 Accuracy: ~94.5%
+
 Strong recall for fraud detection (important for real-world use)
 
 
 ⚠️ Limitations
+
 Logistic Regression is a baseline model (not deep learning)
 Slightly low precision for fraud class due to imbalance
 Can be improved with:
