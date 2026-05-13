@@ -9,7 +9,13 @@ docker implementation -
         docker run -p 8501:8501 gauravpoudel7/frauddetection
 
 
-l 
+
+ 
+
+
+
+
+
 
 Tech Stack
 
@@ -62,6 +68,12 @@ Real-time fraud prediction
 
 
 
+
+
+
+
+
+
 ⚠️ Limitations
 
 Logistic Regression is a baseline model (not deep learning)
@@ -75,6 +87,15 @@ XGBoost / Random Forest
 SMOTE / oversampling
 
 Feature selection tuning
+
+
+
+
+
+
+
+
+
 
 
 
